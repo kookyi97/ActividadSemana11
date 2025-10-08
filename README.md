@@ -4,10 +4,10 @@ Repositorio de la Actividad Sumativa Semana 11
 
 ## Nombre de los integrantes
 
-**Mayerlin Yisel Aguilar Cruz - SMSS067424**  
-**Marleny Jamileth Martinez Méndez - SMSS018924**
-**Brayan Audiel Chavarria Romero - SMSS020924**
-**Esmeralda Isable Cruz Roldan - SMSS011124**
+- **Mayerlin Yisel Aguilar Cruz - SMSS067424**
+- **Marleny Jamileth Martinez Méndez - SMSS018924**
+- **Brayan Audiel Chavarria Romero - SMSS020924**
+- **Esmeralda Isable Cruz Roldan - SMSS011124**
 
 ---
 
@@ -29,6 +29,13 @@ Estos son los Graficos elaborados a partir de los siguientes datos obtenidos en 
 
 - **¿Qué red social usas más?**  
   Respuestas: Instagram, TikTok, WhatsApp, Facebook
+
+  | Red social | Frecuencia |
+  | ---------- | ---------- |
+  | TikTok     | 7          |
+  | WhatsApp   | 4          |
+  | Instagram  | 3          |
+  | Facebook   | 2          |
 
 - **¿Cuánto tiempo tardas en llegar a la universidad?**  
   Valores aproximados: 30 minutos, 45 minutos, 60 minutos, 90 minutos, 120 minutos, 240 minutos
